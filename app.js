@@ -11,9 +11,9 @@ class Cine{
 const peliculas = [];
 // creamos las diferentes variantes de peliculas
 peliculas.push(new Cine("Thor", 900, 10));
-peliculas.push(new Cine("Dr.strange",980, 5));
-peliculas.push(new Cine("Animales Fantasticos", 800,20))
-peliculas.push(new Cine("Sonic",850, 15))
+peliculas.push(new Cine("Lightyear",980, 5));
+peliculas.push(new Cine("The Black Phone", 800,20))
+peliculas.push(new Cine("Jurassic World",850, 15))
 
 
 //dom
